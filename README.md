@@ -31,6 +31,7 @@ Course Price	The original price of a particular course
 Discount Price	The discounted price which a certain course is being offered at
 Price Currency	The currency corresponding to the price detail amount for a course
 
+
 ## 	Tools
 	Beautiful soup library: will be used to parse the HTML data
 	Selenium library: will be used as a driver for site navigation
