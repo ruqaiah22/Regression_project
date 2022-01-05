@@ -1,6 +1,6 @@
 # Regression_project
 
-![UDEMY_3_0KKraw2.png](attachment:UDEMY_3_0KKraw2.png)
+
 
 
 ## Introduction:
