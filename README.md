@@ -16,20 +16,24 @@ The dataset that we will be using for our prediction is taken form Kaggle.
 Below is the list of features we will be using:
 
 
-Course ID	The course ID of a particular course
-Course Title	Shows the unique names of the courses available under the
-Enrollment	The cumulative number of students in the course
-Num Subscribers	Shows the number of people who have subscribed that course
-Stars	The number of ratings (reviews) of the course
-Rating	Average rating for the course
-Num Reviews	Gives us an idea related to the number of ratings that a course has received
-Num Published Lectures	Shows the number of lectures the course offers
-Published Time	Time of publishing the course.
 
-Category	Category of course from which it related
-Course Price	The original price of a particular course
-Discount Price	The discounted price which a certain course is being offered at
-Price Currency	The currency corresponding to the price detail amount for a course
+
+| Field Name            | Description                                                                                                |
+|-----------------------|------------------------------------------------------------------------------------------------------------|
+|Course ID          | The course ID of a particular course.                            |
+|Course Title                    | Shows the unique names of the courses available.                                                              |
+|Enrollment                  |The cumulative number of students in the course.                                                              |
+|Num Subscribers            | Shows the number of people who have subscribed that course.                                                                      |
+|Stars                 | The number of ratings (reviews) of the course.  |
+|Rating           | Average rating for the course. |
+|Num Reviews       |Gives us an idea related to the number of ratings that a course has received.                 |
+|Num Published Lectures           | Shows the number of lectures the course offers.                                                     |
+|Published Time        | Time of publishing the course.                                                        |
+|Category             | Category of course from which it related                                                               |
+|Course Price        | The original price of a particular course.                                                      |
+|Discount Price             | The discounted price which a certain course is being offered |
+|Price Currency         | The currency corresponding to the price detail amount for a course. |
+
 
 
 ## 	Tools
