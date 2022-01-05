@@ -38,8 +38,12 @@ Below is the list of features we will be using:
 
 ## 	Tools
 	Beautiful soup library: will be used to parse the HTML data
+
 	Selenium library: will be used as a driver for site navigation
+
 	A linear regression model for data modeling
+
+
 	Matplotlib and Seaborn for visualization
 
 ## 	MVP Goal:
