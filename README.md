@@ -1,5 +1,8 @@
 # Regression_project
 
+![UDEMY_3_0KKraw2.png](attachment:UDEMY_3_0KKraw2.png)
+
+
 ## Introduction:
 Udemy is an American educational platform for open online courses that professional adults and students can take. It was founded in May 2010. it Contains many categorical fields, such as development, design, business, technology, and marketing.
 June of 2021, the platform has more than 44 million students, 183,000 courses, and 65,000 instructors teaching courses in 75 languages. There have been over 594 million course enrollments.
