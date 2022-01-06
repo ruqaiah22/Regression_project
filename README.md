@@ -1,4 +1,4 @@
-# Regression_project
+# Predicting Online Courses Price
 
 
 
