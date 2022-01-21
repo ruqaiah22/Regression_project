@@ -1,7 +1,8 @@
+## Regression Project | T5-Bootcamp-SDAIA
+
 # Predicting Online Courses Price
 
-
-
+![Picture](https://bargainireland.ie/wp-content/uploads/2022/01/22392-0-udemy-courses-google-facebook-youtube-ads-python-google-sheets-istqb-civil-engineering-business-etiquette-more-2048x1079.jpg) 
 
 ## Introduction:
 Udemy is an American educational platform for open online courses that professional adults and students can take. It was founded in May 2010. it Contains many categorical fields, such as development, design, business, technology, and marketing.
